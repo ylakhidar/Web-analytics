@@ -44,7 +44,7 @@ def parse_french_date(date_str):
 def load_data():
     try:
         # Remplacer 'votre_fichier.csv' par le nom de votre fichier
-        df = pd.read_csv('/mount/src/Web-analytics/avis_avec_risques.csv')
+        df = pd.read_csv('avis_avec_risques.csv')
         
         # Conversion des dates avec gestion des erreurs
         df['date_experience'] = df['date_experience'].apply(parse_french_date)
