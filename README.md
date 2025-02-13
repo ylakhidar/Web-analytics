@@ -33,3 +33,7 @@ Ce projet vise à collecter, analyser et visualiser les avis négatifs des clien
    - Interface interactive permettant d'explorer les avis négatifs  
    - Graphiques pour visualiser les tendances des problèmes par marque  
    - Indicateurs du niveau de satisfaction client  
+
+## Application Streamlit
+
+**Lien vers l'application** : https://web-analytics-ypfpmd3jknz4szfdjmqqxt.streamlit.app/
