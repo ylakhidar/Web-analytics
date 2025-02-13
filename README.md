@@ -10,7 +10,7 @@ Ce projet vise à collecter, analyser et visualiser les avis négatifs des clien
 │── 📝 README.md              # Documentation du projet
 │── 📝 requirements.txt       # Dépendances Python nécessaires
 │── 📝 web_scraping.py        # Script de collecte et stockage des avis
-│── 📝 analyse_avis.py       # Analyse des avis avec un modèle IA
+│── 📝 ai.py       # Analyse des avis avec un modèle IA
 │── 📝 app.py                # Application Streamlit de visualisation
 │── 📝 reviews.csv           # Avis collectés       
 │── 📝 avis_avec_analyse.csv # Avis analysés avec problèmes identifiés par l'IA 
